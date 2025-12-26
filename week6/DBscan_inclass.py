@@ -5,7 +5,7 @@ from sklearn.preprocessing import StandardScaler
 
 # Generate sample data
 centers = [[1, 1], [-1, -1], [1, -1]]
-X, _ = make_blobs(n_samples=750, centers=centers, cluster_std=0.4, random_state=41)
+X, _ = make_blobs(n_samples=750, centers=centers, cluster_std=0.4, random_state=0)
 X = StandardScaler().fit_transform(X)
 
 # Plotting before clustering
