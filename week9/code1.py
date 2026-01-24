@@ -9,7 +9,7 @@ w = np.random.randn()
 b = np.random.randn()
 # Hyperparameters
 
-eta = 0.01
+eta = 0.1
 epochs = 50
 
 for epoch in range(epochs):
