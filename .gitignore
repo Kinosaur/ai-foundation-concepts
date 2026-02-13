@@ -25,3 +25,5 @@ project/test
 project/receipts
 project/runs
 week10/data/mnist
+week11/cifar10_sampled
+week11/data
