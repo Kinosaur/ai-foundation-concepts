@@ -22,8 +22,11 @@ guide/best.pt
 guide/YOLODataset_aug
 guide/img
 guide/test
-guide/receipts
+project/receipts
 guide/runs
 week10/data/mnist
 week11/cifar10_sampled
 week11/data
+project/test
+project/runs
+project/best.pt
