@@ -30,3 +30,4 @@ week11/data
 project/test
 project/runs
 project/best.pt
+tictactoe_dqn.pth
